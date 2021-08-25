@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\bin\Debug\net472\OperatorExercise.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\bin\Debug\net472\OperatorExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\bin\Debug\net472\OperatorExercise.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\OperatorExercise\OperatorExercise\OperatorExercise\obj\Debug\net472\OperatorExercise.pdb
